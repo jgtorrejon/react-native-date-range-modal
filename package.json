@@ -1,0 +1,17 @@
+{
+	"name": "react-native-date-range-modal",
+	"version": "0.0.1",
+	"description": "Date range modal component for react-native",
+	"main": "src/index.js",
+	"repository": "https://github.com/jgtorrejon/react-native-date-range-modal.git",
+	"author": "Joel Gabriel Torrejón Méndez",
+	"license": "MIT",
+	"dependencies": {
+		"prop-types": "^15.7.2",
+		"react-native-modal": "^11.5.3"
+	},
+	"devDependencies": {
+		"react": "^16.11.0",
+		"react-native": "^0.61.4"
+	}
+}
